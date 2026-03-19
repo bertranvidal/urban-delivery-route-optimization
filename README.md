@@ -28,7 +28,7 @@ The objective is to maximize profit while considering demand, vehicle capacity, 
 │   └── 02_zbe_eco_investment_model.ipynb
 └── docs/
     └── report.pdf
-
+```
 ## Tech stack
 
 - Python
@@ -45,10 +45,10 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 
+```
 
 
-
-Usage
+## Usage
 jupyter notebook
 
 Run the notebooks in this order:
@@ -57,10 +57,10 @@ notebooks/01_base_model.ipynb
 
 notebooks/02_zbe_eco_investment_model.ipynb
 
-Report
+## Report
 
 The full project report is available in docs/report.pdf.
 
-Academic context
+## Academic context
 
 This project was developed as part of an academic optimization assignment focused on formulating and solving a realistic MILP problem in urban logistics.
