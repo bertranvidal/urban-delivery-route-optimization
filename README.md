@@ -13,7 +13,7 @@ The project models a delivery company operating with a single van that must deci
 The objective is to maximize profit while considering demand, vehicle capacity, travel costs, time availability, and penalties for undelivered packages.
 
 ## Repository structure
-
+```text
 .
 ├── README.md
 ├── requirements.txt
